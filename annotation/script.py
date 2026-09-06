@@ -16,7 +16,7 @@ all_txt_file = glob(os.path.join('AFEW_*.txt'))
 for txt_file in all_txt_file:
     update(txt_file, "/home/user/datasets/AFEW_Face/", your_dataset_path)
 
-your_dataset_path = ".../DFEW_Face/"
+your_dataset_path = "/run/media/harshith/games/dataset/DFEW_all_clips/"
 all_txt_file = glob(os.path.join('DFEW_*.txt'))
 for txt_file in all_txt_file:
     update(txt_file, "/home/user/datasets/DFEW_Face/", your_dataset_path)
