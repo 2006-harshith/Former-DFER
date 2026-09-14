@@ -3,3 +3,6 @@ __pycache__/
 checkpoint/*
 log/*.jpg
 log/*.png
+
+context.md
+what_and_all_to_run.txt
