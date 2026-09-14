@@ -16,6 +16,7 @@ Add evaluation script for Former-DFER model on DFEW dataset
 - Set up data loading for test dataset with specified batch size and workers.
 - Included model loading from checkpoint with state dictionary handling.
 - Provided detailed logging of evaluation progress and final accuracy.
+- Implemented `eval_dfew_all_folds.py` for evaluating the overal model's performance across 5 folds/sets.
 
 <br>
 
